@@ -174,25 +174,56 @@ Law Enforcement: The financial risk for law enforcement would be mild because th
 An ethical safeguard to help reduce some of the ethical impacts when handling user reports would be the use of disclaimers and a confirmation before every report is submitted by the user. Before every user submission, the tool will alert the user on which parties will be handling their report and what possible actions may be taken. Attached this alert will also be a privacy notice that will also outline how the user’s data is being managed. This would help ensure transparency between the user and our reporting tool on who will be handling their report. It also gives users an opportunity to look over their report and possibly add any necessary info if needed. Our legal team along with the social media platforms we are involved will be involved in writing the privacy notice and designing this safeguard. In a Usercentrics blog they describe the importance of having a privacy notice: “Privacy notices are crucial for maintaining transparency between organizations and individuals. They clearly inform users about what personal data is being collected, why it is collected, how it will be used, and who it will be shared with”(Usercentrics). It is difficult to measure the effectiveness of a privacy notice but with the collaboration with other social media platforms, there will be many overseers to ensure the privacy notice is clear on how user data is being handled.
 
 
-**One Objective and Key Result**
--One objective for ReportShield is to achieve a 90% user satisfaction rate, having easy accessibility with our tool, and being able to stay anonymous.      
-A few key results for Report shield is to integrate the tool into known social media platforms such as TikTok, Instagram, Snapchat, etc.
-I would also like to ensure at least 80% of the outcomes for the reports being submitted. 
--Lastly, I will conduct a usability test with 1000 users and achieve a satisfaction rate of 90%.
--Stakeholders and how they’re affected include Primary users which mainly varies from teens to young adults, and includes all races, genders, and people of different incomes. These kinds of users typically use social media for online interaction with people, whether that be education, networking, etc.
--ReportShield gives them the ability to report online harassment while not having to worry about any consequences. 
--Social media platforms like instagram, tiktok, and facebook would benefit from having less harmful content showing up. ReportShield would also help enhance their content and ensure safety for their users. 
--Law enforcement could also benefit a lot from this tool by retrieving credible evidence from the tool allowing them to take legal action.
--Organizations that focus on mental health, and cyberbullying companies could use our data to help spread awareness to these situations. 
--Families and care takers would benefit as well as they can use the tool to monitor what they’re doing online and also teach their kids how to report cyberbullying. 
--When coming together, these stakeholders can form a collaborative network and help promote protected digital spaces, and also address the primary cause of cyberbullying.
+** 1.C.1.1 OKR 1 Objective and Key Result Objective: 
+My first objective for ReportShield is to achieve a 90% user satisfaction rate, having easy accessibility with our tool, and being able to stay anonymous.      
+A few key results for Report shield is to integrate the tool into known social media platforms such as TikTok, Instagram, Snapchat, etc. I would also like to ensure at least 80% of the outcomes for the reports being submitted. Lastly, I will conduct a usability test with 1000 users and achieve a satisfaction rate of 90%.
+Stakeholders and how they’re affected include Primary users which mainly varies from teens to young adults, and includes all races, genders, and people of different incomes. These kinds of users typically use social media for online interaction with people, whether that be education, networking, etc. ReportShield gives them the ability to report online harassment while not having to worry about any consequences. 
+Social media platforms like instagram, tiktok, and facebook would benefit from having less harmful content showing up. ReportShield would also help enhance their content and ensure safety for their users. 
+Law enforcement could also benefit a lot from this tool by retrieving credible evidence from the tool allowing them to take legal action.
+Organizations that focus on mental health, and cyberbullying companies could use our data to help spread awareness to these situations. 
+Families and care takers would benefit as well as they can use the tool to monitor what they’re doing online and also teach their kids how to report cyberbullying. 
+When coming together, these stakeholders can form a collaborative network and help promote protected digital spaces, and also address the primary cause of cyberbullying.
 
- **Ethical safeguards**
--In order to reduce the ethical concerns arising like privacy of data, bias, and security risks, ReportShield will implement multiple different safety guards and measurements. We will be developing transparent data usage policies that will have an easy-to-use user friendly dashboard that will include a clear consent prompt designed by user advocates, ethical designer experts, and UI/UX designers. 
--These different types of policies will ensure that users are understanding how their data is being used, and will also be measured through user satisfaction surveys as well as opt-in rates. 
--In order to be able to mitigate bias audits we will use diverse datasets representing all demographics, getting feedback from user panels, data scientists, and diversity consultants. 
--Success will be measured by different metrics like user feedback, surveys, and disparate impact ratios to compare the negative impacts of a policy/practice on different groups. 
--Multi factor authentication as well as end-to-end encryption will strengthen data security designed by experts in the cybersecurity field and will then be tested by ethical hackers. 
--Regular security audits will ensure compliance, and effectiveness is going to be tested by using confidence surveys, tracking breaches, and MFA adoption rates. 
--In conclusion, these safeguards, inspired by cases like the Facebook cambridge analytics scandal [1] will make certain that ReportShield ensures user trust and ethical integrity.
+
+** 1.C.1.2 OKR 1 Metric(s) with Experiment(s) 2.) Metrics and experiments:
+My second objective for Report shield is to get an accuracy rate of 95% within the first year for detecting and resolving cases that are related to cyberbullying, harmful content being posted, and fake accounts being made. My key results are to have at least 85% of our users feel confident in the accuracy with our tool, and to also reduce the amount of content that is being incorrectly flagged as harmful or fake to less than 5%. To measure the success of this okr, I will be conducting a usability study and a data accuracy audit. The usability study will involve 1,000 users from our target demographic (teens and young adults aged 13–30, representing different races, genders, and income levels). participants will be asked to submit test reports through ReportShield and provide feedback on the tools accuracy and effectiveness. 
+The experiment:
+
+Did ReportShield help resolve your issue in a fast and timely manner? (Yes/No)
+Would you use and trust ReportShield to handle reports in the future? (Yes/No)
+On a scale from 1-10 how satisfied are you with the outcome of the reports you’ve made?
+On a scale from 1-10 how accurate is ReportShield when it comes to identifying harmful content being posted? 
+        
+
+The data accuracy audit will analyze a sample of 500+ resolved reports to test out the               tools performance. Metrics with include: 
+
+Percentage of harmful content that was correctly flagged
+Percentage of harmful content that was incorrectly flagged 
+Average time it took to resolve valid reports 
+
+To further verify the tools accuracy, I will also be running an A/B test to compare the different versions for the reporting algorithm. Both A and B will have 500 tested reports, version A will use the current machine learning model while version B will consist of training data to reduce biases. Both of the tests will be based on user satisfaction, accuracy, and resolution time. 
+
+** 1.C.1.3 OKR 1 Ethical Impact(s)/Issue(s) 3.)
+My third objective for ReportShield is to make sure within the first year that 95% of our users feel safe and confident with the security of their data when making reports.
+Key results include achieving a 95% encryption success rate, putting together a security audit without detecting any critical vulnerabilities, and putting together a survey to assure that users are confident with the anonymity and data security that the tool provides. 
+The different types of ethical impacts that could arise includes privacy of data concerns, misuse of the tool. For example, if there ends up being a security breach then there's a possibility of user data being stolen and exposed, this is very similar to the Facebook cambridge analytics scandal where over 50 million facebook users data was taken and used in unethical ways causing harm to others and ultimately led to users not trusting facebook with their data. [1]. 
+Also, biased algorithms could ignore certain groups and even unfairly target different people. This is also very similar to the investigation on biased criminal sentencing algorithms which unfortunately ended up leading to discriminatory outcomes [2]. To confront these risks, I decided to create an ethical impact risk table. 
+
+Social media platoforms      | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights ||
+------------------------------------------------------------------------------------------------------
+Law enforcment      | mid       | mid         | high                     | high                 ||
+------------------------------------------------------------------------------------------------------
+Advocacy groups | low    | low        | mid                       | low              ||
+------------------------------------------------------------------------------------------------------
+Families       | low      | high       | mid                      | high                ||
+------------------------------------------------------------------------------------------------------
+Primary users   |     low      |      high       |     mid                     |          high           ||
+
+
+**1.C.3.4 OKR 3 Ethical Safeguard
+In order to reduce the ethical concerns arising like privacy of data, bias, and security risks, ReportShield will implement multiple different safety guards and measurements. We will be developing transparent data usage policies that will have an easy-to-use user friendly dashboard that will include a clear consent prompt designed by user advocates, ethical designer experts, and UI/UX designers. These different types of policies will ensure that users are understanding how their data is being used, and will also be measured through user satisfaction surveys as well as opt-in rates. 
+In order to be able to mitigate bias audits we will use diverse datasets representing all demographics, getting feedback from user panels, data scientists, and diversity consultants. Success will be measured by different metrics like user feedback, surveys, and disparate impact ratios to compare the negative impacts of a policy/practice on different groups. Multi factor authentication as well as end-to-end encryption will strengthen data security designed by experts in the cybersecurity field and will then be tested by ethical hackers. Regular security audits will ensure compliance, and effectiveness is going to be tested by using confidence surveys, tracking breaches, and MFA adoption rates. 
+In conclusion, these safeguards, inspired by cases like the Facebook cambridge analytics scandal [1] will make certain that ReportShield ensures user trust and ethical integrity.
+
+
 
