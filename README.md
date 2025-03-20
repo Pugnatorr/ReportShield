@@ -118,13 +118,49 @@ User Feedback Surveys: Continual collection of user input regarding experience, 
 Independent Evaluations: Cybersecurity firms to review Report Sheild’s practices on a quarterly basis.
 
 **1.C.2.1 OKR 2 Objective and Key Result**
+
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
+
 **1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)**
+
 **1.C.2.4 OKR 2 Ethical Safeguards**
+
+
 **1.C.3.1 OKR 3 Objective and Key Result**
+
+Our Company ReportShield will look to achieve a strong reputation of trustworthiness and reliability with our consumers. A key result to support this objective is by being transparent about our company practices and how they correlate with consumers. One of our main goals is to achieve a 90% satisfaction rate from our surveys in our experiment stage. Our anonymous reporting platform will be designed to protect social media users’ identities when making reports, in an effort to not only protect their privacy but also to prevent retaliation. This will be done through a partnership with social media companies and with the use of encrypted servers. Our reporting platform will also include disclaimers that ensure user reports are anonymous and will list who will have access to their reports. On more serious reports, law enforcement would be involved if the user requests it. Key stakeholders will include social media platforms implementing our system, victims, law enforcement, and advocacy groups.
+
 **1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
+
+To measure the success of our reporting system, we will be having regular social media users be randomly selected to complete a survey that will provide feedback on their comfort level of using our platform. This survey will involve about 1000 users that will come from various social media platforms like Instagram and Snapchat. The questions of survey would include:
+On a scale of 1-10, what is your comfort level of using this report tool?
+Would you use this report system again or recommend other users to use it? (Yes/No)
+Please rate your confidence level in your reports remaining anonymous and secure?(1-10)
+
 **1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)**
+
+Stakeholder       | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights ||
+------------------------------------------------------------------------------------------------------
+Victims/Families       | low       | high         | mid                       | mid                 ||
+------------------------------------------------------------------------------------------------------
+Social Media Companies | high      | mid          | mid                       | high                ||
+------------------------------------------------------------------------------------------------------
+Law Enforcement        | mild      | mild         | low                       | mid                 ||
+------------------------------------------------------------------------------------------------------
+
+
+
+Victims/Families Stakeholder: The financial risks for past victims of cybercrimes and their families who want to invest into this system is low in this case, because there is not a lot of correlation between financial loss and the security of user reports. The privacy risk would be more of a concern because they are trusting a secondary company involved in the social media platform being used will be private and taken seriously. Although there is an effort of transparency when using the reporting tool, it can be concerning about data security when multiple parties are involved. Finally, the conflict of interest would be considered mild due to the reporting tool would only be responding on how the data is shared based on what the user wants to be done with their report. 
+
+Social Media Companies: The financial risk for social media companies is high because they will be not only investing into this reporting system but also will be implementing it into their platforms. There would need to be a high level of trust between them and our reporting tool as we would have to rely on their resources. In regard to privacy risk and the social media companies, the risk would be mild. This is because there would have to be an agreement between our tool and them on how we protect sensitive info from users who use the tool on their platform. This follows into conflicting interest as social media companies will also hold responsibility in handling user data and agreements would have to be in place to ensure that data is being handled appropriately. 
+This ethics impact can be referred to the United States vs Drew case where they ruled that they could not find Lori Drew guilty of CFAA violations because it was too vague to be applied to her violations of My Space’s terms of service. The case was ultimately dismissed  “as the judge seemingly thought it would be wrong to criminalize certain Terms of Service violations of MySpace and other social networking web sites since users often misrepresent themselves online”(Patchin).  This ethics issue can arise again in this situation here as it would leave the social media platforms to ultimately decide what would be considered as a violation of their terms of service.
+
+Law Enforcement: The financial risk for law enforcement would be mild because they will have financial investment with our company by using our tool as a resource to combat cybercrimes. The privacy risk would also be mild because they would also be using consumer data with their permission in order to retrieve evidence for potential legal action. Leading into conflicting interest risk, this would be low due to our tool and their party being on the same page of having similar goals. 
+
 **1.C.3.4 OKR 3 Ethical Safeguards**
+
+An ethical safeguard to help reduce some of the ethical impacts when handling user reports would be the use of disclaimers and a confirmation before every report is submitted by the user. Before every user submission, the tool will alert the user on which parties will be handling their report and what possible actions may be taken. Attached this alert will also be a privacy notice that will also outline how the user’s data is being managed. This would help ensure transparency between the user and our reporting tool on who will be handling their report. It also gives users an opportunity to look over their report and possibly add any necessary info if needed. Our legal team along with the social media platforms we are involved will be involved in writing the privacy notice and designing this safeguard. In a Usercentrics blog they describe the importance of having a privacy notice: “Privacy notices are crucial for maintaining transparency between organizations and individuals. They clearly inform users about what personal data is being collected, why it is collected, how it will be used, and who it will be shared with”(Usercentrics). It is difficult to measure the effectiveness of a privacy notice but with the collaboration with other social media platforms, there will be many overseers to ensure the privacy notice is clear on how user data is being handled.
+
 
 **One Objective and Key Result**
 -One objective for ReportShield is to achieve a 90% user satisfaction rate, having easy accessibility with our tool, and being able to stay anonymous.      
