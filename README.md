@@ -117,13 +117,25 @@ Audit Logs: Regular auditsensure encrypted data remains safe and unexposed.
 User Feedback Surveys: Continual collection of user input regarding experience, engagement, privacy, and safety.
 Independent Evaluations: Cybersecurity firms to review Report Sheild’s practices on a quarterly basis.
 
+
+
+
 **1.C.2.1 OKR 2 Objective and Key Result**
+
+ZACH's OKR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
 
+ZACH's OKR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 **1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)**
 
+ZACH's OKR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 **1.C.2.4 OKR 2 Ethical Safeguards**
+
+ZACH's OKR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 
 **1.C.3.1 OKR 3 Objective and Key Result**
