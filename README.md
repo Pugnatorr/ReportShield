@@ -133,8 +133,6 @@ When coming together, these stakeholders can form a collaborative network and he
 
 
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
-
-** 1.C.1.2 OKR 1 Metric(s) with Experiment(s) 2.) Metrics and experiments:
 My second objective for Report shield is to get an accuracy rate of 95% within the first year for detecting and resolving cases that are related to cyberbullying, harmful content being posted, and fake accounts being made. My key results are to have at least 85% of our users feel confident in the accuracy with our tool, and to also reduce the amount of content that is being incorrectly flagged as harmful or fake to less than 5%. To measure the success of this okr, I will be conducting a usability study and a data accuracy audit. The usability study will involve 1,000 users from our target demographic (teens and young adults aged 13–30, representing different races, genders, and income levels). participants will be asked to submit test reports through ReportShield and provide feedback on the tools accuracy and effectiveness. 
 The experiment:
 
@@ -154,7 +152,7 @@ To further verify the tools accuracy, I will also be running an A/B test to comp
 
 **1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)**
 
-** 1.C.1.3 OKR 1 Ethical Impact(s)/Issue(s) 3.)
+** 1.C.2.3 OKR 1 Ethical Impact(s)/Issue(s) 3.)
 My third objective for ReportShield is to make sure within the first year that 95% of our users feel safe and confident with the security of their data when making reports.
 Key results include achieving a 95% encryption success rate, putting together a security audit without detecting any critical vulnerabilities, and putting together a survey to assure that users are confident with the anonymity and data security that the tool provides. 
 The different types of ethical impacts that could arise includes privacy of data concerns, misuse of the tool. For example, if there ends up being a security breach then there's a possibility of user data being stolen and exposed, this is very similar to the Facebook cambridge analytics scandal where over 50 million facebook users data was taken and used in unethical ways causing harm to others and ultimately led to users not trusting facebook with their data. [1]. 
