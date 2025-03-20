@@ -26,7 +26,7 @@ Conduct usability study with 1,000 users from diverse demographics. The targeted
 
 **Stake Holders:**
 **Users:**
-The main userbase foe the study will be the main userbase of social media teens and young adults aged 13-30. They must be of diverse race as well as gender. There should be no minimum or cap on their income level. Their sexual orientation should also be diverse as cyberbullying can target those of differing races, genders, or sexual orientations thus it’s encouraged that these demographics be diverse. They also use social media often throughout their day. They use it for entertainment, education, networking, and for a professional setting.
+The main userbase for the study will be the main userbase of social media teens and young adults aged 13-30. They must be of diverse race as well as gender. There should be no minimum or cap on their income level. Their sexual orientation should also be diverse as cyberbullying can target those of differing races, genders, or sexual orientations thus it’s encouraged that these demographics be diverse. They also use social media often throughout their day. They use it for entertainment, education, networking, and for a professional setting.
 **Social Media Platforms:**
 These companies benefit from reducing harmful content on their platforms. This will improve the safety of their users. Which in turn will raise their user retention and compliance with their company guidelines. Their platforms will also make more money due to more advertisers willing to promote their products on these platforms due to a reduction in explicit content.
 **Law Enforcement:**
@@ -125,3 +125,26 @@ Independent Evaluations: Cybersecurity firms to review Report Sheild’s practic
 **1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
 **1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)**
 **1.C.3.4 OKR 3 Ethical Safeguards**
+
+**One Objective and Key Result**
+-One objective for ReportShield is to achieve a 90% user satisfaction rate, having easy accessibility with our tool, and being able to stay anonymous.      
+A few key results for Report shield is to integrate the tool into known social media platforms such as TikTok, Instagram, Snapchat, etc.
+I would also like to ensure at least 80% of the outcomes for the reports being submitted. 
+-Lastly, I will conduct a usability test with 1000 users and achieve a satisfaction rate of 90%.
+-Stakeholders and how they’re affected include Primary users which mainly varies from teens to young adults, and includes all races, genders, and people of different incomes. These kinds of users typically use social media for online interaction with people, whether that be education, networking, etc.
+-ReportShield gives them the ability to report online harassment while not having to worry about any consequences. 
+-Social media platforms like instagram, tiktok, and facebook would benefit from having less harmful content showing up. ReportShield would also help enhance their content and ensure safety for their users. 
+-Law enforcement could also benefit a lot from this tool by retrieving credible evidence from the tool allowing them to take legal action.
+-Organizations that focus on mental health, and cyberbullying companies could use our data to help spread awareness to these situations. 
+-Families and care takers would benefit as well as they can use the tool to monitor what they’re doing online and also teach their kids how to report cyberbullying. 
+-When coming together, these stakeholders can form a collaborative network and help promote protected digital spaces, and also address the primary cause of cyberbullying.
+
+ **Ethical safeguards**
+-In order to reduce the ethical concerns arising like privacy of data, bias, and security risks, ReportShield will implement multiple different safety guards and measurements. We will be developing transparent data usage policies that will have an easy-to-use user friendly dashboard that will include a clear consent prompt designed by user advocates, ethical designer experts, and UI/UX designers. 
+-These different types of policies will ensure that users are understanding how their data is being used, and will also be measured through user satisfaction surveys as well as opt-in rates. 
+-In order to be able to mitigate bias audits we will use diverse datasets representing all demographics, getting feedback from user panels, data scientists, and diversity consultants. 
+-Success will be measured by different metrics like user feedback, surveys, and disparate impact ratios to compare the negative impacts of a policy/practice on different groups. 
+-Multi factor authentication as well as end-to-end encryption will strengthen data security designed by experts in the cybersecurity field and will then be tested by ethical hackers. 
+-Regular security audits will ensure compliance, and effectiveness is going to be tested by using confidence surveys, tracking breaches, and MFA adoption rates. 
+-In conclusion, these safeguards, inspired by cases like the Facebook cambridge analytics scandal [1] will make certain that ReportShield ensures user trust and ethical integrity.
+
