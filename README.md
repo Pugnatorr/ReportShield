@@ -210,4 +210,23 @@ Law Enforcement: The financial risk for law enforcement would be mild because th
 
 An ethical safeguard to help reduce some of the ethical impacts when handling user reports would be the use of disclaimers and a confirmation before every report is submitted by the user. Before every user submission, the tool will alert the user on which parties will be handling their report and what possible actions may be taken. Attached this alert will also be a privacy notice that will also outline how the user’s data is being managed. This would help ensure transparency between the user and our reporting tool on who will be handling their report. It also gives users an opportunity to look over their report and possibly add any necessary info if needed. Our legal team along with the social media platforms we are involved will be involved in writing the privacy notice and designing this safeguard. In a Usercentrics blog they describe the importance of having a privacy notice: “Privacy notices are crucial for maintaining transparency between organizations and individuals. They clearly inform users about what personal data is being collected, why it is collected, how it will be used, and who it will be shared with”(Usercentrics). It is difficult to measure the effectiveness of a privacy notice but with the collaboration with other social media platforms, there will be many overseers to ensure the privacy notice is clear on how user data is being handled.
 
+**2.A. Core Values:**
+Overall, ReportShield is built on four simple core values. This consists of keeping users safe, protecting their privacy, being open and honest about how we work, and ethical responsibility. We believe that everyone should be able to use the internet without having the fear of their data being exposed to others, which is why our anonymous reporting system allows them to safely speak up with no risk at. Security is our backbone, with end to end encryption and rigorous audits to protect users data. Most importantly, we take responsibility for making the online world safer for all, working with experts and authorities to stop abuse while protecting free speech. We want to be known as the team that finally gave others control over their digital lives, where reporting harm feels as easy as sending a text, and where no one has to choose between staying silent or risking retaliation.
+
+
+**2.B. Motivation**
+At ReportShield, we love building systems that make people feel heard, safe, and powerful, especially for those who have previously been silenced or dismissed. We get excited about the idea that someone who once feared reporting a bully can now do so anonymously in under five minutes, while knowing they’re backed by encryption, community, and clarity. Research shows that effective reporting systems significantly reduce online abuse while preserving free expression [1]
+ We fear complacency. The internet’s toxicity grows when systems prioritize engagement over ethics, or when anonymity becomes a weapon instead of a shield. We fear misplaced trust, failed encryption, biased algorithms, or partnerships that compromise user safety. Research shows that "41% of Americans have experienced online harassment, with 25% reporting severe abuse like stalking or threats" [2].
+
+ **2.C. Summary**
+
+Privacy
+Empowerment
+Integrity
+Transparency
+Compassion
+Innovation
+
+
+
 
