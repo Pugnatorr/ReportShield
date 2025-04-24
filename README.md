@@ -85,15 +85,10 @@ Ethical impact Risk Table:
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights |
 |-------------------------|----------------|--------------|----------------------|----------------------|
 | Users | Low | High | Mid | Mid |
-|-------------------------|----------------|--------------|----------------------|----------------------|
 | Social Media Platforms | Mild | Low | High | Mid |
-|-------------------------|----------------|--------------|----------------------|----------------------|
 | Law Enforcement | Mild | Low | Mid | High |
-|-------------------------|----------------|--------------|----------------------|----------------------|
 | Advocacy Groups | Low | Low | Low | None |
-|-------------------------|----------------|--------------|----------------------|----------------------|
 | Families & Caretakers | Low | Mid | Low | None |
-|-------------------------|----------------|--------------|----------------------|----------------------|
 
 
 Analysis of Ethical Risks:
@@ -170,8 +165,10 @@ Group A will take the digital literacy course immediately upon signing up while 
     
     Another risk for our platform’s digital literacy course is the lack of accessibility for users who are non English speakers or have disabilities. They might find the contenta haré to navigate which would exclude them from their education. Also users that may have a different learning styles from that of our course which may also lead to their exclusion from being educated on digital literacy. 
 
+
 | Stakeholder | Financial Risk | Risk of Privacy | Conflicting Interest | Risk of Rights Violation | Primary Users |
-| Primary Users | Low | Medium | Medium | High | Medium |
+|-------------|----------------|-----------------|----------------------|--------------------------|---------------|
+| Primary Users | Low | Medium | Medium | High |
 | Social Media Firms | Medium | Low | Medium | Medium | 
 | Law Enforcement | Low | Low | Low | Low |
 | Advocacy Groups | Low | Low | Low | Low |
