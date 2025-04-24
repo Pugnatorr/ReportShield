@@ -89,7 +89,7 @@ Potential for Bias: If the usability test doesn’t include a diverse range of p
 Ethical impact Risk Table:
 
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights |
-|-------------------------|----------------|--------------|----------------------|----------------------|
+|-------------|----------------|--------------|----------------------|----------------------|
 | Users | Low | High | Mid | Mid |
 | Social Media Platforms | Mild | Low | High | Mid |
 | Law Enforcement | Mild | Low | Mid | High |
@@ -135,6 +135,11 @@ Independent Evaluations: Cybersecurity firms to review Report Sheild’s practic
     To reach an average rating of 4.5/5 for the learning content of the digital literacy course based on its users feedback.
 
 **Stakeholders:**
+Primary Users
+Social Media Firms
+Law Enforcement
+Advocacy Groups
+Families
 
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
 
@@ -202,6 +207,18 @@ To create a diverse training dataset with at least 40% of the group consisting o
 Conduct monthly fairness audits on AI flagging mechanisms and patterns
 Eventually achieve less than 10% of disparate impact rate in report outcomes. 
 Reportshield also wishes to collaborate with advocacy groups and marginalized communities to refine moderation bias detection logic 
+
+**StakeHolders**
+
+**Primary Users**
+Everyday users that use ReportShield to report abuse or harmful content online, fake accounts, and cyberbullying. These users rely on ReportShield to be  a fair and trustworthy conent moderator. Their experience is directly influenced by how well ReportShield is able to moderate any harmful content online.
+
+**Social Media Companies**
+Are essential stakeholders because they are integration partners. ReportShield works alongside these platforms helping them manage reports and urging them to 
+Law Enforcement
+Advocacy Groups
+Marginalized Groups
+
 
 **1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
 
