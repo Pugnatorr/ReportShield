@@ -3,8 +3,7 @@
 
 **Item 1**
 
-**1.A. Company Name** Report Shield is a startup tech company that acts as an anonymous reporting tool that will allow users to securely report fake social media accounts being created,
-cyberbullying, and harmful content without having the fear of retaliation. The platform provides users with an anonymous, secure, and efficient way to report any digital or online threats while completely integrateding with any major social media platform. ReportShield prioritizes the safety, privacy, and ethical responsibility of all users and the platform itself. 
+**1.A. Company Name:** Report Shield is a tech startup that offers an anonymous reporting platform, enabling users to safely report fake social media accounts, cyberbullying, and harmful content without fear of retaliation. The tool provides a secure, confidential, and streamlined way to flag online threats while seamlessly integrating with major social media platforms. Report Shield is committed to user safety, privacy, and ethical accountability, ensuring a trustworthy experience for all.
 
 **1.B. Long-Term Vision Statement** 
 **1.B.1. Goals:** The primary goal of reportshield is to create a digital safespace accross all social media platforms. To provide users with a digital Utopia free from any fear of ridicule, judgement, or discrimination. This can be acheived by providing users with secure, anonymous, and accessible platforms to report harmful online activities. By integrating with major social media platforms like; Instagram, TikTok, X, Snapchat, Facebook, etc. ReportSheild aims to if not eradicate then reduce the widespread pervasiveness of cybebullying, creation of fraudulent accounts, and the spread of harmfu content.
