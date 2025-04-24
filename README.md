@@ -211,6 +211,8 @@ Law Enforcement: The financial risk for law enforcement would be mild because th
 
 An ethical safeguard to help reduce some of the ethical impacts when handling user reports would be the use of disclaimers and a confirmation before every report is submitted by the user. Before every user submission, the tool will alert the user on which parties will be handling their report and what possible actions may be taken. Attached this alert will also be a privacy notice that will also outline how the user’s data is being managed. This would help ensure transparency between the user and our reporting tool on who will be handling their report. It also gives users an opportunity to look over their report and possibly add any necessary info if needed. Our legal team along with the social media platforms we are involved will be involved in writing the privacy notice and designing this safeguard. In a Usercentrics blog they describe the importance of having a privacy notice: “Privacy notices are crucial for maintaining transparency between organizations and individuals. They clearly inform users about what personal data is being collected, why it is collected, how it will be used, and who it will be shared with”(Usercentrics). It is difficult to measure the effectiveness of a privacy notice but with the collaboration with other social media platforms, there will be many overseers to ensure the privacy notice is clear on how user data is being handled.
 
+**Item 2:**
+
 **2.A. Core Values:**
 Overall, ReportShield is built on four simple core values. This consists of keeping users safe, protecting their privacy, being open and honest about how we work, and ethical responsibility. We believe that everyone should be able to use the internet without having the fear of their data being exposed to others, which is why our anonymous reporting system allows them to safely speak up with no risk at. Security is our backbone, with end to end encryption and rigorous audits to protect users data. Most importantly, we take responsibility for making the online world safer for all, working with experts and authorities to stop abuse while protecting free speech. We want to be known as the team that finally gave others control over their digital lives, where reporting harm feels as easy as sending a text, and where no one has to choose between staying silent or risking retaliation.
 
@@ -222,11 +224,74 @@ At ReportShield, we love building systems that make people feel heard, safe, and
  **2.C. Summary**
 
 Privacy
+
 Empowerment
+
 Integrity
+
 Transparency
+
 Compassion
+
 Innovation
+
+
+
+**Item 3: Ethics Policy**
+
+**3.A.1 User Data Privacy:**
+Our first commitment as Reportshield is to safeguard the privacy of any and everyone of our user’s data. Our platform is built for people who need to anonymously report fake accounts, cyber bullying, and harmful content without any fear of retaliation. To ensure the safety of our users we use end-to-end encryption and upon submission all reports are made anonymous. We at Reportshield strict data minimization principles only collecting what is necessary. Unless compelled to do so by legal requirements we abstain from sharing our user data with any third parties. We include user friendly dashboards ao users can see how their data is being processed and protected. As Valdez noted in Wired, “The data collected by Facebook was later harvested by Cambridge Analytica and allegedly used to manipulate voter opinion” [1]. 
+
+
+
+**3.A.2 Bias Elimination:**
+Reportshield uses machine learning algorithm to detect patterns in abuse and harmful content. We commit to diverse, equal, and inclusive data sets so as to eliminate bias. Eliminating bias helps eliminate any discriminatory outcomes based on race, gender, ableism, class, etc. We collaborate with third party ethics consultants and perform routine bias audits to ensure fairness. As the AI now institute wrote, “expand AI fairness beyond a focus on mathematics and statistical fairness towards issues on justice” [3]. Reportshield seeks to elevate underreported harms to marginalized groups. 
+
+
+
+**3.A.3 Fair Labor Policies:**
+Reportshield acknowledges the value of its engineers, data analysts and content reviewers by offering fair compensation and safe working conditions. Reportshield is meant to provide safety to all and we as its creators must uphold that in our own workplace by renouncing the use of exploitative labor. The AI now reports that “accounting for the many forms of labor required to create and maintain AI systems is essential to ethical development” [3]. We support open acknowledgment of contributors in our ethical reports and research publication. 
+
+
+
+**3.A.4 Interdisciplinary Ethics Consulting:**
+Our development team works closely with social scientists, educators, lawyers, digital rights advocates, mental and physical health professionals. “It’s good to commit to interdisciplinary AI” [3]. By drawing from these disciplines Reportshield ensures that its technology will not harm its user’s psychological and physical welling, and their legal boundaries. We also engage with our underaged user’s family, educators, and advocacy groups through surveys and community partnerships to refine our ethical approach. 
+
+
+
+**3.A.5 Proactivity and Accountability:**
+Reportshield commits to conducting bianual ethical impact assessments to review our platform’s social effects, report handling, if there are undeserved reports done to any demographic, and  influence on our user’s mental health. Our findings are to be published publicly. In the case of failure we commit to prompt correction. In the case of misuse we commit to prompt investigation.“Black defendants are often predicated to be at a higher risk of recidivism than they actually were” [4], due to flawed algorithms whether intentional or not. Through our partnerships with civil society organizations we advocate for better online safety policies for all users. 
+
+
+
+
+**3.A.6**
+Reportshield is more than just a tool it is meant to be a utopia digital safe space. We are forming coalitions with civil society organizations, researchers, and digital safety advocates to push for level platform change. Whether our digital safe space is influencing policy changes across other social media platforms and contributing to a firm reduction in cyber bullying and fake account cases. It is encouraged to begin “building coalitions between researchers, civil society, and organizers within the technology sector” [3], as it will bring ethics to encourage platform change. We see ourselves as the arbiters of a revolution in digital safe spaces. 
+
+
+
+
+
+**3.B.1**
+Dr. Timnet Gebru
+Dr. Timnet Gebru is a computer scientist and founder of the distributed AI research institute (DAIR). Her work and institute highlights the potential perils of facial recognition in exposing its potential for bias. She also focuses on imposing ethics on machine learning. She used to work for Google as a co-lead for their Ethical AI team. She was considered one of the chief authorities when it came to algorithmic fairness. This was a prime reason as to why Google fired her. She has conducted landmark studies on how AI models can harbor gender and racial bias. Reportshield’s use for AI content moderation makes her insight essential. Her expertise ensures that our AI models treat all users fairly and with equity regardless of race, gender, sexual orientation etc. That any ethical red flags or patterns of unjust reporting of a certain demographic are to be quickly expunged. 
+
+
+
+
+**3.B.2**
+Dr. Rumman Chowdhury
+Dr. Chowdhury is a data scientist, AI ethicist and former director of machine learning at Twitter. She is known for creating Machine Learning audit frameworks and serving as an advisor to tech companies and even governments on AI transparency. At Parity consulting she helped organizations implement AI practices. Dr. Chowdhury’s advice is invaluable to us at Reportshield for she has real world experience mitigating harm in algorithms and social media platforms. Her guidance would ensure that our machine learning models are fair, auditable, and aligned with user’s rights and expectations. 
+
+
+
+
+
+**3.B.3**
+Alex Stamos
+Alex Stamos is a cybersecurity expert and former chief security officer at Facebook. He is the director of the Stanford Internet Observatory. He has advised the public and private sectors on digital security. His knowledge is essential in safeguarding ReportShield’s data, especially since our core premises are secure anonymous reporting. Stamos could assist with our end-to-end encryption. With his background in being in charge of safeguarding billions of user accounts in Facebook he brings nigh peerless credibility to our board. 
+
+
 
 
 
