@@ -39,6 +39,7 @@ Parents and guardians could use Report Sheild to educate young users about onlin
 **1.C.1.2 OKR 1 Metric(s) with Experiment(s)** 
 **2.) Metrics and experiments:**
 To attain 90% user satisfaction rate. Report Shield will conduct a usability study with 1,000 participants from diverse demographics. The study will involve a survey and observing the participants interacting with the Report Shield platform.
+
 **Metrics:**
 User satisfaction score on survey:
 Sample questions:
@@ -55,6 +56,7 @@ Success Metric: Error rate is below 10%.
 Retention Rate:
 Measures how many users continue to use Report Shield after 3 months.
 Success Metric: At least 70% of participants use Report Shield after 3 months.
+
 **Experiments:**
 A/B Testing:
 2 different UI designs will be tested to see which layout is more engaging to the user by
@@ -165,6 +167,7 @@ Group A will take the digital literacy course immediately upon signing up while 
     
     Another risk for our platform’s digital literacy course is the lack of accessibility for users who are non English speakers or have disabilities. They might find the contenta haré to navigate which would exclude them from their education. Also users that may have a different learning styles from that of our course which may also lead to their exclusion from being educated on digital literacy. 
 
+Ethical impact Risk Table:
 
 | Stakeholder | Financial Risk | Risk of Privacy | Conflicting Interest | Risk of Rights Violation |
 |-------------|----------------|-----------------|----------------------|--------------------------|
@@ -213,6 +216,7 @@ Experiment 2: We will have a panel of 200 testers of diverse identities report s
 **1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)**
     Reducing bias in automated moderation is a very critical issue. It’s one however that must be expunged. Studies show that marginalized groups are disproportionately flagged or ignored by AI systems [5]. Failing to act upon this issue could result in further marginalization for these groups. This marginalization would be in a digital space which would burden these demographics with another frontier that they’d have to cross to combat their own discrimination. The “TikTok Shadowbanning” controversy, where LGBTQ+ and disabled creators were quietly suppressed demonstrates how biased moderation damages trust [6]. Also with being marginalized on digital spaces where many people spend a good portion of their daily lives this can trickle down to their lives offline as discriminatory sentiments could not only be harbored online but spread rapidly. 
 
+Ethical impact Risk Table:
 
 | Stakeholder | Financial Risk | Risk of Privacy | Risk of Bias | Risk of Rights Violation |
 |-------------|----------------|-----------------|--------------|--------------------------|
