@@ -7,15 +7,13 @@
 
 **1.B. Long-Term Vision Statement:** In the coming decade, ReportShield aspires to fundamentally redefine online safety and accountability. Through advanced technology, strategic partnerships, and community empowerment, we plan to change social media into spaces that prioritize human dignity, authentic connection, and ethical engagement. Overall, our biggest goal is to help create a digital world where people can trust what they see, harmful content is rare, and everyone feels safe to speak up.
 
-
 **1.B.1. Goals:** ReportShield’s main goal is to make social media safer for everyone. We want users to feel protected from bullying, fake accounts, and harmful content without fear of being judged or targeted. By working with platforms like Instagram, TikTok, X (Twitter), Snapchat, and Facebook, we provide a secure and anonymous way to report abuse. While we may not eliminate these problems completely, we aim to significantly reduce them.
 
 **1.B.2. Idea Organization:** ReportShield originally began as a way to fight off cyberbullying and social media abuse. after the rise of fake accounts, online harassment, and misinformation, we realized that there was a clear need for a tool that lets users report problems safely and anonymously. This idea was inspiried by the 2006 court case United States vs. Lori Drew. Where a mother and daughter posed as a fake account to harass a 13 year old girl so much to the point that it drove the 13 year old girl to take her own life. Reportsheild was developed to empower all its users so as that they may not face the same harm as the victim in the United states vs Lori Drew court case. 
 
 **1.B.3. Purpose/Values/Mission:** Our purpose is to create a safer digital world. Free from any harm by empowring users with the ability to anonymously report any harmful online behavior. Our values include privacy, security, trasnparency, and ethical responsibility. Privacy to ensure that users can report annonymously withouth fear. Security is the data encryption that secures unauthoried access to your reporting information. Transparency allows for users to recieve updates on report outcomes ensuring a high trust relationship beingtween our users and the system. Ethical responsibility promotes the idea of a saespcae in any social media platfrom that ReportSheild partners with and prioritizes ethical decision making in our operations. 
 
-**1.B.4. Key Questions:**
-How can maximum anonymity for the victims be ensured whle maintiaining maximum accountability for the perpetrators of cyberbullying or harassment?
+**1.B.4. Key Questions:** How can maximum anonymity for the victims be ensured whle maintiaining maximum accountability for the perpetrators of cyberbullying or harassment?
 What technologies can be implemented t make reporting easier and more effective for diverse users such as those whom are disabled?
 How do we balance freedom of speech and the policies of each social media company with the need to remove harmful content online?
 
@@ -80,9 +78,7 @@ Case Study: The misuse Twitter’s reporting system, where false mass reports ha
 Conflicting interests: Social media companies might be reluctant to integrate Report Shield if it increases their content moderation burden.
 Potential for Bias: If the usability test doesn’t include a diverse range of participants, the platform’s effectiveness may be skewed toward certain demographics. Thus it could lead to forms of discrimination as it can target certain demographics more harshly for reports of cybercrimes falsely.
 
-
 Ethical impact Risk Table:
-
 
 | Stakeholder | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights |
 |-------------------------|----------------|--------------|----------------------|----------------------|
@@ -91,7 +87,6 @@ Ethical impact Risk Table:
 | Law Enforcement | Mild | Low | Mid | High |
 | Advocacy Groups | Low | Low | Low | None |
 | Families & Caretakers | Low | Mid | Low | None |
-
 
 Analysis of Ethical Risks:
 Uses (High Privacy Risk): Since reports are anonymous, if the encryption fails then the user’s identity will be vulnerable to theft.
@@ -117,11 +112,7 @@ Audit Logs: Regular auditsensure encrypted data remains safe and unexposed.
 User Feedback Surveys: Continual collection of user input regarding experience, engagement, privacy, and safety.
 Independent Evaluations: Cybersecurity firms to review Report Sheild’s practices on a quarterly basis.
 
-
-
-
 **1.C.2.1 OKR 2 Objective and Key Result**
-
 **Objective**
     My objective is to ensure Reportshield launches a digital literacy campaign that reaches Reportshield users. It is to increase awareness around cyber bullying, fake accounts, and the proper use of anonymous reporting tools. Many users, especially those that are minors, may not know what qualifies as cyber bullying or a fake account or accounts spreading misinformation. They may also not know how to safely and effectively report on harm. Reportshield aims to empower our younger users so that they may not fall victim to such malice. By launching a digital literacy campaign Reportshield will not only improve the quality of the reports but foster a more informed and ethical online community. This will aid to reduce underreporting and increase the proactivity of our newly educated users. 
 
@@ -161,11 +152,10 @@ Are you now more careful about your digital footprint?
 Experiment control group A vs control group B
 Group A will take the digital literacy course immediately upon signing up while Group B will take the digital literacy course 30 days after signing up. Then upon both groups completing their courses their metrics will be compared with the accuracy and honesty of their submitted reports. 
 
-
 **1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)**
-    The act of improving digital literacy while rooted with good intentions of a digital safe space can harbor harmful yet unintended consequences if not handled carefully. Oversimplified modules might encourage overconfidence or misuse of reporting tools. If not monitored misinformation about the course’s curriculum might be spread within the course itself. This mirrors past issues such as “YouTube’s ‘Creator’s Academy,’ which unintentionally downplayed the algorithmic suppression risks, causing confusion and false expectations” [2]. 
+The act of improving digital literacy while rooted with good intentions of a digital safe space can harbor harmful yet unintended consequences if not handled carefully. Oversimplified modules might encourage overconfidence or misuse of reporting tools. If not monitored misinformation about the course’s curriculum might be spread within the course itself. This mirrors past issues such as “YouTube’s ‘Creator’s Academy,’ which unintentionally downplayed the algorithmic suppression risks, causing confusion and false expectations” [2]. 
     
-    Another risk for our platform’s digital literacy course is the lack of accessibility for users who are non English speakers or have disabilities. They might find the contenta haré to navigate which would exclude them from their education. Also users that may have a different learning styles from that of our course which may also lead to their exclusion from being educated on digital literacy. 
+Another risk for our platform’s digital literacy course is the lack of accessibility for users who are non English speakers or have disabilities. They might find the contenta haré to navigate which would exclude them from their education. Also users that may have a different learning styles from that of our course which may also lead to their exclusion from being educated on digital literacy. 
 
 Ethical impact Risk Table:
 
@@ -192,7 +182,7 @@ Feedback Loop: Users will be able to flag any misleading or contradictory conten
 
 **1.C.3.1 OKR 3 Objective and Key Result**
 **Objective:**
-    This OKR seeks to eliminate algorithmic bias in moderation systems used by Reportshield. Within the first year, our goal is to reduce Reportshield’s moderation bias by 50%. This is to ensure that all groups, especially underrepresented groups regarding; gender, race, sexual orientation, ableism, and socioeconomic status all have a voice in reporting harmful content. 
+This OKR seeks to eliminate algorithmic bias in moderation systems used by Reportshield. Within the first year, our goal is to reduce Reportshield’s moderation bias by 50%. This is to ensure that all groups, especially underrepresented groups regarding; gender, race, sexual orientation, ableism, and socioeconomic status all have a voice in reporting harmful content. 
 
 **Key Result:**
 To create a diverse training dataset with at least 40% of the group consisting of underrepresented groups. 
@@ -201,17 +191,16 @@ Eventually achieve less than 10% of disparate impact rate in report outcomes.
 Reportshield also wishes to collaborate with advocacy groups and marginalized communities to refine moderation bias detection logic 
 
 **1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
-    We at ReportShield to test for bias will apply disparate impact testing across our demographics.
+We at ReportShield to test for bias will apply disparate impact testing across our demographics.
     
 **Key Metrics:**
 False positive rate according to demographic.
 Time to resolve the report and take affirmative action disparity among the demographics
 The disparity of rates of satisfaction among demographic groups. 
 
-Experiment 1: For our first experiment we will submit 500 copies of the same report using our reporting tool. Every element of the report will be word for word the exact same (content as well as all markers of identity such as gender, race, sexual orientation, etc.).  
+**Experiment 1:** For our first experiment we will submit 500 copies of the same report using our reporting tool. Every element of the report will be word for word the exact same (content as well as all markers of identity such as gender, race, sexual orientation, etc.).  
 
-Experiment 2: We will have a panel of 200 testers of diverse identities report similar harmful content through our reporting tool. We will check for any differences in our tool’s affirmative action and it’s rate of fairness results. 
-
+**Experiment 2:** We will have a panel of 200 testers of diverse identities report similar harmful content through our reporting tool. We will check for any differences in our tool’s affirmative action and it’s rate of fairness results. 
 
 **1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)**
     Reducing bias in automated moderation is a very critical issue. It’s one however that must be expunged. Studies show that marginalized groups are disproportionately flagged or ignored by AI systems [5]. Failing to act upon this issue could result in further marginalization for these groups. This marginalization would be in a digital space which would burden these demographics with another frontier that they’d have to cross to combat their own discrimination. The “TikTok Shadowbanning” controversy, where LGBTQ+ and disabled creators were quietly suppressed demonstrates how biased moderation damages trust [6]. Also with being marginalized on digital spaces where many people spend a good portion of their daily lives this can trickle down to their lives offline as discriminatory sentiments could not only be harbored online but spread rapidly. 
@@ -226,23 +215,19 @@ Ethical impact Risk Table:
 | Advocacy Groups | Low | Low | Low | Low |
 | Marginalized Groups | Low | High | High | High |
 
-
     Primary users and marginalized groups face the highest risk in terms of privacy, bias and podré tisk rights violations. The algorithms may bias our users causing marginalization and if they are already in a marginalized group it will be made even worse for them. Social media companies face financial risk due to conflicting interest of safety for users thus causing moderation when what they really want is engagement. Law enforcement carries mid level bias risk due to if they enforce the law on a marginalized group based on biased data. Advocacy goups face minimal risk but also are meant to hold the system accountable if anything were to go wrong. So if data is still biased even after them reviewing it then they too could face accountability. The table illustrates the need to protect our users and especially those of marginalized groups as they face the greatest risks of all the stakeholders. 
 
 **1.C.3.4 OKR 3 Ethical Safeguards**
     We at Reportshield are aware of these risks and aim to mitigate them where we can. We will implement bias mitigation by using algorithm explainability tools such as SHAP (SHapely Addictive exPlanations) to audit any unfair decision making process from our reporting tools and immediately take measures against it. SHAP allows the system to assign transparent numerical values to each factor that influences a moderation decision. This will make finding traces of unfair treatment towards users of certain demographics or multiple demographics easier. This can be done with procrastinating report audits from users because of their demographic. We will have inclusive design by having our moderation policy created with the help of marginalized groups. They will have direct influence on how harmful content is mitigated and their first hand experience at the hands of discrimination will provide an invaluable asset to our refining of our tool. To maintain trust among our users Reportshield will publish a yearly bias report with the aims of the amount of bias every year. It will be revised by advocacy and civil rights groups to ensure accountability at Reportshield. The platform will also allow for users to provide direct feedback explaining why their report was accepted or rejected. This allows for transparency with our users. These practices will ensure that Reportshield can be trusted to ensure that there is no bias or discrimination against any demographic that everyone should be safe when online and anonymously reporting any harm. 
 
-
 **Item 2 Cultural Policy:**
-
 
 **2.A. Core Values:**
 Overall, ReportShield is built on four simple core values. This consists of keeping users safe, protecting their privacy, being open and honest about how we work, and ethical responsibility. We believe that everyone should be able to use the internet without having the fear of their data being exposed to others, which is why our anonymous reporting system allows them to safely speak up with no risk at. Security is our backbone, with end to end encryption and rigorous audits to protect users data. Most importantly, we take responsibility for making the online world safer for all, working with experts and authorities to stop abuse while protecting free speech. We want to be known as the team that finally gave others control over their digital lives, where reporting harm feels as easy as sending a text, and where no one has to choose between staying silent or risking retaliation.
 
-
 **2.B. Motivation**
 At ReportShield, we love building systems that make people feel heard, safe, and powerful, especially for those who have previously been silenced or dismissed. We get excited about the idea that someone who once feared reporting a bully can now do so anonymously in under five minutes, while knowing they’re backed by encryption, community, and clarity. Research shows that effective reporting systems significantly reduce online abuse while preserving free expression [1]
- We fear complacency. The internet’s toxicity grows when systems prioritize engagement over ethics, or when anonymity becomes a weapon instead of a shield. We fear misplaced trust, failed encryption, biased algorithms, or partnerships that compromise user safety. Research shows that "41% of Americans have experienced online harassment, with 25% reporting severe abuse like stalking or threats" [2].
+We fear complacency. The internet’s toxicity grows when systems prioritize engagement over ethics, or when anonymity becomes a weapon instead of a shield. We fear misplaced trust, failed encryption, biased algorithms, or partnerships that compromise user safety. Research shows that "41% of Americans have experienced online harassment, with 25% reporting severe abuse like stalking or threats" [2].
 
  **2.C. Summary**
 
@@ -258,68 +243,28 @@ Compassion
 
 Innovation
 
-
-
 **Item 3: Ethics Policy**
 
+**3.A.1 User Data Privacy:** Our first commitment as Reportshield is to safeguard the privacy of any and everyone of our user’s data. Our platform is built for people who need to anonymously report fake accounts, cyber bullying, and harmful content without any fear of retaliation. To ensure the safety of our users we use end-to-end encryption and upon submission all reports are made anonymous. We at Reportshield strict data minimization principles only collecting what is necessary. Unless compelled to do so by legal requirements we abstain from sharing our user data with any third parties. We include user friendly dashboards ao users can see how their data is being processed and protected. As Valdez noted in Wired, “The data collected by Facebook was later harvested by Cambridge Analytica and allegedly used to manipulate voter opinion” [1]. 
 
-**3.A.1 User Data Privacy:**
+**3.A.2 Bias Elimination:** Reportshield uses machine learning algorithm to detect patterns in abuse and harmful content. We commit to diverse, equal, and inclusive data sets so as to eliminate bias. Eliminating bias helps eliminate any discriminatory outcomes based on race, gender, ableism, class, etc. We collaborate with third party ethics consultants and perform routine bias audits to ensure fairness. As the AI now institute wrote, “expand AI fairness beyond a focus on mathematics and statistical fairness towards issues on justice” [3]. Reportshield seeks to elevate underreported harms to marginalized groups. 
 
-Our first commitment as Reportshield is to safeguard the privacy of any and everyone of our user’s data. Our platform is built for people who need to anonymously report fake accounts, cyber bullying, and harmful content without any fear of retaliation. To ensure the safety of our users we use end-to-end encryption and upon submission all reports are made anonymous. We at Reportshield strict data minimization principles only collecting what is necessary. Unless compelled to do so by legal requirements we abstain from sharing our user data with any third parties. We include user friendly dashboards ao users can see how their data is being processed and protected. As Valdez noted in Wired, “The data collected by Facebook was later harvested by Cambridge Analytica and allegedly used to manipulate voter opinion” [1]. 
+**3.A.3 Fair Labor Policies:** Reportshield acknowledges the value of its engineers, data analysts and content reviewers by offering fair compensation and safe working conditions. Reportshield is meant to provide safety to all and we as its creators must uphold that in our own workplace by renouncing the use of exploitative labor. The AI now reports that “accounting for the many forms of labor required to create and maintain AI systems is essential to ethical development” [3]. We support open acknowledgment of contributors in our ethical reports and research publication. 
 
+**3.A.4 Interdisciplinary Ethics Consulting:** development team works closely with social scientists, educators, lawyers, digital rights advocates, mental and physical health professionals. “It’s good to commit to interdisciplinary AI” [3]. By drawing from these disciplines Reportshield ensures that its technology will not harm its user’s psychological and physical welling, and their legal boundaries. We also engage with our underaged user’s family, educators, and advocacy groups through surveys and community partnerships to refine our ethical approach. 
 
-
-**3.A.2 Bias Elimination:**
-
-Reportshield uses machine learning algorithm to detect patterns in abuse and harmful content. We commit to diverse, equal, and inclusive data sets so as to eliminate bias. Eliminating bias helps eliminate any discriminatory outcomes based on race, gender, ableism, class, etc. We collaborate with third party ethics consultants and perform routine bias audits to ensure fairness. As the AI now institute wrote, “expand AI fairness beyond a focus on mathematics and statistical fairness towards issues on justice” [3]. Reportshield seeks to elevate underreported harms to marginalized groups. 
-
-
-
-**3.A.3 Fair Labor Policies:**
-
-Reportshield acknowledges the value of its engineers, data analysts and content reviewers by offering fair compensation and safe working conditions. Reportshield is meant to provide safety to all and we as its creators must uphold that in our own workplace by renouncing the use of exploitative labor. The AI now reports that “accounting for the many forms of labor required to create and maintain AI systems is essential to ethical development” [3]. We support open acknowledgment of contributors in our ethical reports and research publication. 
-
-
-
-**3.A.4 Interdisciplinary Ethics Consulting:**
-
-Our development team works closely with social scientists, educators, lawyers, digital rights advocates, mental and physical health professionals. “It’s good to commit to interdisciplinary AI” [3]. By drawing from these disciplines Reportshield ensures that its technology will not harm its user’s psychological and physical welling, and their legal boundaries. We also engage with our underaged user’s family, educators, and advocacy groups through surveys and community partnerships to refine our ethical approach. 
-
-
-
-**3.A.5 Proactivity and Accountability:**
-
-Reportshield commits to conducting bianual ethical impact assessments to review our platform’s social effects, report handling, if there are undeserved reports done to any demographic, and  influence on our user’s mental health. Our findings are to be published publicly. In the case of failure we commit to prompt correction. In the case of misuse we commit to prompt investigation.“Black defendants are often predicated to be at a higher risk of recidivism than they actually were” [4], due to flawed algorithms whether intentional or not. Through our partnerships with civil society organizations we advocate for better online safety policies for all users. 
+**3.A.5 Proactivity and Accountability:** Reportshield commits to conducting bianual ethical impact assessments to review our platform’s social effects, report handling, if there are undeserved reports done to any demographic, and  influence on our user’s mental health. Our findings are to be published publicly. In the case of failure we commit to prompt correction. In the case of misuse we commit to prompt investigation.“Black defendants are often predicated to be at a higher risk of recidivism than they actually were” [4], due to flawed algorithms whether intentional or not. Through our partnerships with civil society organizations we advocate for better online safety policies for all users. 
 
 
 
 
-**3.A.6 Coalition Building and Advocacy**
+**3.A.6 Coalition Building and Advocacy** Reportshield is more than just a tool it is meant to be a utopia digital safe space. We are forming coalitions with civil society organizations, researchers, and digital safety advocates to push for level platform change. Whether our digital safe space is influencing policy changes across other social media platforms and contributing to a firm reduction in cyber bullying and fake account cases. It is encouraged to begin “building coalitions between researchers, civil society, and organizers within the technology sector” [3], as it will bring ethics to encourage platform change. We see ourselves as the arbiters of a revolution in digital safe spaces. 
 
-Reportshield is more than just a tool it is meant to be a utopia digital safe space. We are forming coalitions with civil society organizations, researchers, and digital safety advocates to push for level platform change. Whether our digital safe space is influencing policy changes across other social media platforms and contributing to a firm reduction in cyber bullying and fake account cases. It is encouraged to begin “building coalitions between researchers, civil society, and organizers within the technology sector” [3], as it will bring ethics to encourage platform change. We see ourselves as the arbiters of a revolution in digital safe spaces. 
+**3.B.1 Dr. Timnet Gebru** Dr. Timnet Gebru is a computer scientist and founder of the distributed AI research institute (DAIR). Her work and institute highlights the potential perils of facial recognition in exposing its potential for bias. She also focuses on imposing ethics on machine learning. She used to work for Google as a co-lead for their Ethical AI team. She was considered one of the chief authorities when it came to algorithmic fairness. This was a prime reason as to why Google fired her. She has conducted landmark studies on how AI models can harbor gender and racial bias. Reportshield’s use for AI content moderation makes her insight essential. Her expertise ensures that our AI models treat all users fairly and with equity regardless of race, gender, sexual orientation etc. That any ethical red flags or patterns of unjust reporting of a certain demographic are to be quickly expunged. 
 
+**3.B.2 Dr. Rumman Chowdhury** Dr. Chowdhury is a data scientist, AI ethicist and former director of machine learning at Twitter. She is known for creating Machine Learning audit frameworks and serving as an advisor to tech companies and even governments on AI transparency. At Parity consulting she helped organizations implement AI practices. Dr. Chowdhury’s advice is invaluable to us at Reportshield for she has real world experience mitigating harm in algorithms and social media platforms. Her guidance would ensure that our machine learning models are fair, auditable, and aligned with user’s rights and expectations. 
 
-
-
-
-**3.B.1 Dr. Timnet Gebru**
-
-Dr. Timnet Gebru is a computer scientist and founder of the distributed AI research institute (DAIR). Her work and institute highlights the potential perils of facial recognition in exposing its potential for bias. She also focuses on imposing ethics on machine learning. She used to work for Google as a co-lead for their Ethical AI team. She was considered one of the chief authorities when it came to algorithmic fairness. This was a prime reason as to why Google fired her. She has conducted landmark studies on how AI models can harbor gender and racial bias. Reportshield’s use for AI content moderation makes her insight essential. Her expertise ensures that our AI models treat all users fairly and with equity regardless of race, gender, sexual orientation etc. That any ethical red flags or patterns of unjust reporting of a certain demographic are to be quickly expunged. 
-
-
-
-
-**3.B.2 Dr. Rumman Chowdhury**
-
-Dr. Chowdhury is a data scientist, AI ethicist and former director of machine learning at Twitter. She is known for creating Machine Learning audit frameworks and serving as an advisor to tech companies and even governments on AI transparency. At Parity consulting she helped organizations implement AI practices. Dr. Chowdhury’s advice is invaluable to us at Reportshield for she has real world experience mitigating harm in algorithms and social media platforms. Her guidance would ensure that our machine learning models are fair, auditable, and aligned with user’s rights and expectations. 
-
-
-
-
-
-**3.B.3 Alex Stamos**
-
-Alex Stamos is a cybersecurity expert and former chief security officer at Facebook. He is the director of the Stanford Internet Observatory. He has advised the public and private sectors on digital security. His knowledge is essential in safeguarding ReportShield’s data, especially since our core premises are secure anonymous reporting. Stamos could assist with our end-to-end encryption. With his background in being in charge of safeguarding billions of user accounts in Facebook he brings nigh peerless credibility to our board. 
+**3.B.3 Alex Stamos** Alex Stamos is a cybersecurity expert and former chief security officer at Facebook. He is the director of the Stanford Internet Observatory. He has advised the public and private sectors on digital security. His knowledge is essential in safeguarding ReportShield’s data, especially since our core premises are secure anonymous reporting. Stamos could assist with our end-to-end encryption. With his background in being in charge of safeguarding billions of user accounts in Facebook he brings nigh peerless credibility to our board. 
 
 
 
