@@ -135,11 +135,21 @@ Independent Evaluations: Cybersecurity firms to review Report Sheild’s practic
     To reach an average rating of 4.5/5 for the learning content of the digital literacy course based on its users feedback.
 
 **Stakeholders:**
-Primary Users
-Social Media Firms
-Law Enforcement
-Advocacy Groups
-Families
+
+**Primary Users**
+Everyday people who use ReportShield to report fake accounts, cyberbullying, misinformation, etc. Digital literacy is most importnt for them as they are at the most risk of harm. Digital literacy ensures they understand how the tool works, how to navigate the interface, and what to expect when reporting onine harrassment. Empowering out often underaged users with accessible education on digital literacy is essential to ensure trust.
+
+**Social Media Firms**
+While they dont recieve direct lessions on digital literacy thye do partner with reportshield and beneft from more informed users and an overall safer user experience. These more educated users will provide more thorough reports which will reduce moderation burdens and improve enforcement burdens for their team as well as that of reportshield. They will also get better PR by partnering with a tool that ensures the safety of their users. 
+
+**Law Enforcement**
+Is a key stakeholder as well inforemed users will submit clear =, actionable reports that can aid in the investigation of cyber crimes like harassmnet, blackmail, or fraud. this will ensure better evidence provided and handling as well as greater cooperation between users and authorities. Law enforcement can support public education by sharing these courses with public schools. But for the sake of the user's privacy great care must be taken to safeguard their anonymity even during an investgation. 
+
+**Advocacy Groups**
+These groups work to reduce any digital harm and advocate for equal access to online tools and education. Their collaboration with reportshield will help ensure that the materials used for the digital literacy courses are inclusive foe people of all demographics. They will also help evaluate the level of effectiveness for the literacy programs of reducing online harassment.  
+
+**Families**
+Since many reportshield users will be inors their parents and families have a need to ensure the online safety of their child's online experience. Through reportshield they could provide them with a clear guidance materials or training and foster safr online expeirnces and build a stronger support network for underaged users.
 
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
 
@@ -214,11 +224,16 @@ Reportshield also wishes to collaborate with advocacy groups and marginalized co
 Everyday users that use ReportShield to report abuse or harmful content online, fake accounts, and cyberbullying. These users rely on ReportShield to be  a fair and trustworthy conent moderator. Their experience is directly influenced by how well ReportShield is able to moderate any harmful content online.
 
 **Social Media Companies**
-Are essential stakeholders because they are integration partners. ReportShield works alongside these platforms helping them manage reports and urging them to 
-Law Enforcement
-Advocacy Groups
-Marginalized Groups
+Are essential stakeholders because they are integration partners. ReportShield works alongside these platforms helping them manage reports and urging them to manage reports ethically. These companies have a vested interest to ensure that moderation is seen as fair by its users of all demographcis.
 
+**Law Enforcement**
+Are involved when a report escalates to a potential criminal matter for the user being reported. Or a safety issue for the user doing the reporting. They not only depend on the user doing the reporting but also on Reportshield to accurately vet the report for any misinformation or bias. If it is biased then the law could be misled to act on a faulty or an outright false or even frramed report. 
+
+**Advocacy Groups**
+Civil rihts organizations, digittal justice movements, anti cyberbullying groups serve as not only collaborators but also ensure that any harmful online content is heavily censored. They monitor how efectively ReportShield protects marginalized groups and help address any systemic discrimination with content moderation. hey contribute by desiging more inclusive systems by sharing and highlighting their insights as well as statistical data. 
+
+**Marginalized Groups**
+Any racial, ethnic, gender, LGBTQ+, Disabled, and Lingustic Minorities are crucial stakeholders as they are at the most risk of harm from biased moderation. These communities face far more frequent rates of cyberbullying and harmful content and are disproportionately ignored by biased algorithms. Our success at Reportshield heavily depends on how well and how fair our reporting tool is for them.
 
 **1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
 
