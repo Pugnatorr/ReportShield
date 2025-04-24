@@ -38,13 +38,13 @@ Parents and guardians could use Report Sheild to educate young users about onlin
 
 **1.C.1.2 OKR 1 Metric(s) with Experiment(s)** 
 **2.) Metrics and experiments:**
-To attain 90% user satisfaction rate. Report Sheild will conduct a usability study with 1,000 participants from diverse demographics. The study will involve a survey and observing the participants interacting with the Report Shield platform.
+To attain 90% user satisfaction rate. Report Shield will conduct a usability study with 1,000 participants from diverse demographics. The study will involve a survey and observing the participants interacting with the Report Shield platform.
 **Metrics:**
 User satisfaction score on survey:
 Sample questions:
 “On a scale of 1-10, how satisfied are you with the ease of reporting the issue?”
-“On a scale of 1-10, how secure did you feel in your anonymity when using Report Sheild?”
-“On a scale of 1-10, how likely are you to recommend Report Sheild to others?
+“On a scale of 1-10, how secure did you feel in your anonymity when using Report Shield?”
+“On a scale of 1-10, how likely are you to recommend Report Shield to others?
 Success metric: 90% of users report the average of the survey as 8/10 or higher.
 Task Completion Rate:
 Users must successfully complete a report in 5 minutes.
@@ -53,8 +53,8 @@ Error Rate:
 Tracks how many users make errors (incorrect submissions).
 Success Metric: Error rate is below 10%.
 Retention Rate:
-Measures how many users continue to use Report Sheild after 3 months.
-Success Metric: At least 70% of participants use Report Sheild after 3 months.
+Measures how many users continue to use Report Shield after 3 months.
+Success Metric: At least 70% of participants use Report Shield after 3 months.
 **Experiments:**
 A/B Testing:
 2 different UI designs will be tested to see which layout is more engaging to the user by
@@ -135,9 +135,9 @@ Independent Evaluations: Cybersecurity firms to review Report Sheild’s practic
 **Stakeholders:**
 
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
-
-    To assess the effectiveness of the digital literacy program. Reportshield will conduct a longitudinal study with 2 control groups. 
-    Users will  take a pre test, this pre test will act as a baseline quiz regarding the users level of digital literacy. This will be evaluated by assessing their knowledge on identifying bot accounts, cyber bullying, misinformation. It also assesses their ability to know their reporting protocols and understanding their right to digital privacy and how it can be violated. 
+**Metrics**
+To assess the effectiveness of the digital literacy program. Reportshield will conduct a longitudinal study with 2 control groups. 
+Users will  take a pre test, this pre test will act as a baseline quiz regarding the users level of digital literacy. This will be evaluated by assessing their knowledge on identifying bot accounts, cyber bullying, misinformation. It also assesses their ability to know their reporting protocols and understanding their right to digital privacy and how it can be violated. 
     Users will go through 5 interactive modules.
 Course modules: 
 Digital footprints
@@ -179,7 +179,7 @@ Group A will take the digital literacy course immediately upon signing up while 
     Primary users, especially teens are at the highest of risks when it comes to being victimized by misinformation and harassment. They also face a medium risk of rights violations if they lack the awareness of consenting digitally, awareness of the consequences of sharing their data, and suffering from harmful reporting practices from cyber bullies. Social media firms could face risk with compliance with educational partnerships. Families face risks if children lack digital literacy or are misinformed regarding digital literacy. 
 
 **1.C.2.4 OKR 2 Ethical Safeguards**
-    To reduce these aforementioned risks above, Reportshield must implement inclusive learning. 
+To reduce these aforementioned risks above, Reportshield must implement inclusive learning. 
 
 Inclusive Design: Modules will be created with consultations from accessibility experts such as voice guided lessons for visually impaired, and sign language assistance for any parts of the course that may have a video. The course will also be translated in 10 languages. 
 Third-Party Review: Each module of the course will be reviewed on a quarterly basis by educators and digital ethics organizations to ensure accuracy and relevance.
@@ -188,10 +188,10 @@ Feedback Loop: Users will be able to flag any misleading or contradictory conten
 
 
 **1.C.3.1 OKR 3 Objective and Key Result**
-Objective: 
+**Objective:**
     This OKR seeks to eliminate algorithmic bias in moderation systems used by Reportshield. Within the first year, our goal is to reduce Reportshield’s moderation bias by 50%. This is to ensure that all groups, especially underrepresented groups regarding; gender, race, sexual orientation, ableism, and socioeconomic status all have a voice in reporting harmful content. 
 
-Key Result: 
+**Key Result:**
 To create a diverse training dataset with at least 40% of the group consisting of underrepresented groups. 
 Conduct monthly fairness audits on AI flagging mechanisms and patterns
 Eventually achieve less than 10% of disparate impact rate in report outcomes. 
@@ -199,51 +199,28 @@ Reportshield also wishes to collaborate with advocacy groups and marginalized co
 
 **1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
     We at ReportShield to test for bias will apply disparate impact testing across our demographics.
+    
+**Key Metrics:**
+False positive rate according to demographic.
+Time to resolve the report and take affirmative action disparity among the demographics
+The disparity of rates of satisfaction among demographic groups. 
 
 Experiment 1: For our first experiment we will submit 500 copies of the same report using our reporting tool. Every element of the report will be word for word the exact same (content as well as all markers of identity such as gender, race, sexual orientation, etc.).  
 
 Experiment 2: We will have a panel of 200 testers of diverse identities report similar harmful content through our reporting tool. We will check for any differences in our tool’s affirmative action and it’s rate of fairness results. 
-
-Key Metrics:
-False positive rate according to demographic.
-Time to resolve the report and take affirmative action disparity among the demographics
-The disparity of rates of satisfaction among demographic groups. 
 
 
 **1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)**
     Reducing bias in automated moderation is a very critical issue. It’s one however that must be expunged. Studies show that marginalized groups are disproportionately flagged or ignored by AI systems [5]. Failing to act upon this issue could result in further marginalization for these groups. This marginalization would be in a digital space which would burden these demographics with another frontier that they’d have to cross to combat their own discrimination. The “TikTok Shadowbanning” controversy, where LGBTQ+ and disabled creators were quietly suppressed demonstrates how biased moderation damages trust [6]. Also with being marginalized on digital spaces where many people spend a good portion of their daily lives this can trickle down to their lives offline as discriminatory sentiments could not only be harbored online but spread rapidly. 
 
 
-Stakeholder 
-Financial Risk 
-Risk of Privacy
-Risk of Bias
-Risk of Rights Violation
-Privacy Users
-Low 
-High
-High 
-High 
-Social Media Companies
-Mid
-Mid
-Mid 
-Mid 
-Law Enforcement 
-Low
-Low
-Mid 
-Mid 
-Advocacy Groups 
-Low
-Low 
-Low 
-Low 
-Marginalized Groups
-Low
-High
-High 
-High
+| Stakeholder | Financial Risk | Risk of Privacy | Risk of Bias | Risk of Rights Violation |
+|-------------|----------------|-----------------|--------------|--------------------------|
+| Privacy Users | Low | High | High | High |
+| Social Media Companies | Mid | Mid | Mid | Mid |
+| Law Enforcement | Low | Low | Mid | Mid |
+| Advocacy Groups | Low | Low | Low | Low |
+| Marginalized Groups | Low | High | High | High |
 
 
     Primary users and marginalized groups face the highest risk in terms of privacy, bias and podré tisk rights violations. The algorithms may bias our users causing marginalization and if they are already in a marginalized group it will be made even worse for them. Social media companies face financial risk due to conflicting interest of safety for users thus causing moderation when what they really want is engagement. Law enforcement carries mid level bias risk due to if they enforce the law on a marginalized group based on biased data. Advocacy goups face minimal risk but also are meant to hold the system accountable if anything were to go wrong. So if data is still biased even after them reviewing it then they too could face accountability. The table illustrates the need to protect our users and especially those of marginalized groups as they face the greatest risks of all the stakeholders. 
@@ -314,14 +291,14 @@ Reportshield is more than just a tool it is meant to be a utopia digital safe sp
 
 
 **3.B.1**
-Dr. Timnet Gebru
+**Dr. Timnet Gebru**
 Dr. Timnet Gebru is a computer scientist and founder of the distributed AI research institute (DAIR). Her work and institute highlights the potential perils of facial recognition in exposing its potential for bias. She also focuses on imposing ethics on machine learning. She used to work for Google as a co-lead for their Ethical AI team. She was considered one of the chief authorities when it came to algorithmic fairness. This was a prime reason as to why Google fired her. She has conducted landmark studies on how AI models can harbor gender and racial bias. Reportshield’s use for AI content moderation makes her insight essential. Her expertise ensures that our AI models treat all users fairly and with equity regardless of race, gender, sexual orientation etc. That any ethical red flags or patterns of unjust reporting of a certain demographic are to be quickly expunged. 
 
 
 
 
 **3.B.2**
-Dr. Rumman Chowdhury
+**Dr. Rumman Chowdhury**
 Dr. Chowdhury is a data scientist, AI ethicist and former director of machine learning at Twitter. She is known for creating Machine Learning audit frameworks and serving as an advisor to tech companies and even governments on AI transparency. At Parity consulting she helped organizations implement AI practices. Dr. Chowdhury’s advice is invaluable to us at Reportshield for she has real world experience mitigating harm in algorithms and social media platforms. Her guidance would ensure that our machine learning models are fair, auditable, and aligned with user’s rights and expectations. 
 
 
@@ -329,7 +306,7 @@ Dr. Chowdhury is a data scientist, AI ethicist and former director of machine le
 
 
 **3.B.3**
-Alex Stamos
+**Alex Stamos**
 Alex Stamos is a cybersecurity expert and former chief security officer at Facebook. He is the director of the Stanford Internet Observatory. He has advised the public and private sectors on digital security. His knowledge is essential in safeguarding ReportShield’s data, especially since our core premises are secure anonymous reporting. Stamos could assist with our end-to-end encryption. With his background in being in charge of safeguarding billions of user accounts in Facebook he brings nigh peerless credibility to our board. 
 
 
