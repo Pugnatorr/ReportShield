@@ -125,10 +125,10 @@ Independent Evaluations: Cybersecurity firms to review Report Sheild’s practic
 
 **1.C.2.1 OKR 2 Objective and Key Result**
 
-Objective:
+**Objective**
     My objective is to ensure Reportshield launches a digital literacy campaign that reaches Reportshield users. It is to increase awareness around cyber bullying, fake accounts, and the proper use of anonymous reporting tools. Many users, especially those that are minors, may not know what qualifies as cyber bullying or a fake account or accounts spreading misinformation. They may also not know how to safely and effectively report on harm. Reportshield aims to empower our younger users so that they may not fall victim to such malice. By launching a digital literacy campaign Reportshield will not only improve the quality of the reports but foster a more informed and ethical online community. This will aid to reduce underreporting and increase the proactivity of our newly educated users. 
 
-KeyResult: 
+**Key Results**
     Launch an in-app interactive educational model and educate 50,000 Reportshield users within the first 12 months of the launch. 
 
     Reportshield wishes to achieve at last a 60% improvement on digital literacy scores through the uses of pre and post quizzes.
@@ -137,7 +137,10 @@ KeyResult:
 
     To reach an average rating of 4.5/5 for the learning content of the digital literacy course based on its users feedback.
 
+**Stakeholders:**
+
 **1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
+
     To assess the effectiveness of the digital literacy program. Reportshield will conduct a longitudinal study with 2 control groups. 
     Users will  take a pre test, this pre test will act as a baseline quiz regarding the users level of digital literacy. This will be evaluated by assessing their knowledge on identifying bot accounts, cyber bullying, misinformation. It also assesses their ability to know their reporting protocols and understanding their right to digital privacy and how it can be violated. 
     Users will go through 5 interactive modules.
@@ -167,31 +170,12 @@ Group A will take the digital literacy course immediately upon signing up while 
     
     Another risk for our platform’s digital literacy course is the lack of accessibility for users who are non English speakers or have disabilities. They might find the contenta haré to navigate which would exclude them from their education. Also users that may have a different learning styles from that of our course which may also lead to their exclusion from being educated on digital literacy. 
 
-|| Stakeholder | Financial Risk | Risk of Privacy | Risk of Misinformation | Risk of Rights Violation | Primary Users ||
-|| Primary Users | Low | Medium 
-|| Medium
-High
-Medium
-Social Media Firms
-Medium
-Low
-Medium
-Medium
-Law Enforcement 
-Low
-Low
-Low
-Low
-Advocacy Groups
-Low
-Low
-Low
-Low
-Families
-Low
-Medium
-Medium
-High
+| Stakeholder | Financial Risk | Risk of Privacy | Conflicting Interest | Risk of Rights Violation | Primary Users |
+| Primary Users | Low | Medium | Medium | High | Medium |
+| Social Media Firms | Medium | Low | Medium | Medium | 
+| Law Enforcement | Low | Low | Low | Low |
+| Advocacy Groups | Low | Low | Low | Low |
+| Families | Low | Medium | Medium | High |
 
 
 
