@@ -80,8 +80,8 @@ Potential for Bias: If the usability test doesn’t include a diverse range of p
 
 
 Ethical impact Risk Table:
-|-------------------------|----------------|--------------|----------------------|----------------------|
-| Stakeholder             | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights  |
+
+|| Stakeholder             | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights  |
 |-------------------------|----------------|--------------|----------------------|----------------------|
 | Users                   | Low            | High         | Mid                  | Mid                  |
 |-------------------------|----------------|--------------|----------------------|----------------------|
