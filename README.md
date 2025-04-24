@@ -121,95 +121,158 @@ Independent Evaluations: Cybersecurity firms to review Report Sheild’s practic
 
 
 
-**1.C.2.1 OKR 2 Objective and Key Result**
-** 1.C.1.1 OKR 1 Objective and Key Result Objective: 
-My first objective for ReportShield is to achieve a 90% user satisfaction rate, having easy accessibility with our tool, and being able to stay anonymous.      
-A few key results for Report shield is to integrate the tool into known social media platforms such as TikTok, Instagram, Snapchat, etc. I would also like to ensure at least 80% of the outcomes for the reports being submitted. Lastly, I will conduct a usability test with 1000 users and achieve a satisfaction rate of 90%.
-Stakeholders and how they’re affected include Primary users which mainly varies from teens to young adults, and includes all races, genders, and people of different incomes. These kinds of users typically use social media for online interaction with people, whether that be education, networking, etc. ReportShield gives them the ability to report online harassment while not having to worry about any consequences. 
-Social media platforms like instagram, tiktok, and facebook would benefit from having less harmful content showing up. ReportShield would also help enhance their content and ensure safety for their users. 
-Law enforcement could also benefit a lot from this tool by retrieving credible evidence from the tool allowing them to take legal action.
-Organizations that focus on mental health, and cyberbullying companies could use our data to help spread awareness to these situations. 
-Families and care takers would benefit as well as they can use the tool to monitor what they’re doing online and also teach their kids how to report cyberbullying. 
-When coming together, these stakeholders can form a collaborative network and help promote protected digital spaces, and also address the primary cause of cyberbullying.
+1.C.1.1 OKR 1 Objective and Key Result
+
+Objective:
+    My objective is to ensure Reportshield launches a digital literacy campaign that reaches Reportshield users. It is to increase awareness around cyber bullying, fake accounts, and the proper use of anonymous reporting tools. Many users, especially those that are minors, may not know what qualifies as cyber bullying or a fake account or accounts spreading misinformation. They may also not know how to safely and effectively report on harm. Reportshield aims to empower our younger users so that they may not fall victim to such malice. By launching a digital literacy campaign Reportshield will not only improve the quality of the reports but foster a more informed and ethical online community. This will aid to reduce underreporting and increase the proactivity of our newly educated users. 
+
+KeyResult: 
+    Launch an in-app interactive educational model and educate 50,000 Reportshield users within the first 12 months of the launch. 
+
+    Reportshield wishes to achieve at last a 60% improvement on digital literacy scores through the uses of pre and post quizzes.
+
+    To partner with 10+ schools, universities, and advocacy organizations to embed Reportshield’s training modules in their digital safety curriculum. 
+
+    To reach an average rating of 4.5/5 for the learning content of the digital literacy course based on its users feedback.
+
+1.C.1.2 OKR 1 Metric(s) with Experiment(s)
+    To assess the effectiveness of the digital literacy program. Reportshield will conduct a longitudinal study with 2 control groups. 
+    Users will  take a pre test, this pre test will act as a baseline quiz regarding the users level of digital literacy. This will be evaluated by assessing their knowledge on identifying bot accounts, cyber bullying, misinformation. It also assesses their ability to know their reporting protocols and understanding their right to digital privacy and how it can be violated. 
+    Users will go through 5 interactive modules.
+Course modules: 
+Digital footprints
+Identify Cyberbullying, Misinformation, and Bot Accounts
+Report Honestly and Responsibly
+Online Safety and Privacy 
+Ethics Use of Social Media 
+
+    To assess the level of the course’s effectiveness users are now prompted to take a post test. To also measure the progress of the user. A certificate is awarded only if they pass with a score of at least 80% or above. 
+
+    Users will be given a survey in order to report and review their experience and opinion on the effectiveness of our digital literacy course. 
+
+User Survey Questions: 
+How confident are you now in identifying harmful or fake content online?
+On a scale of 1 to 5 how likely are you to use Reportshield’s reporting tool to submit accurate and responsible reports?
+Did you learn something new from this course? (Yes/No)
+Are you now aware of your rights to privacy online? 
+Are you now more careful about your digital footprint?
+Experiment control group A vs control group B
+Group A will take the digital literacy course immediately upon signing up while Group B will take the digital literacy course 30 days after signing up. Then upon both groups completing their courses their metrics will be compared with the accuracy and honesty of their submitted reports. 
 
 
-**1.C.2.2 OKR 2 Metric(s) with Experiment(s)**
-My second objective for Report shield is to get an accuracy rate of 95% within the first year for detecting and resolving cases that are related to cyberbullying, harmful content being posted, and fake accounts being made. My key results are to have at least 85% of our users feel confident in the accuracy with our tool, and to also reduce the amount of content that is being incorrectly flagged as harmful or fake to less than 5%. To measure the success of this okr, I will be conducting a usability study and a data accuracy audit. The usability study will involve 1,000 users from our target demographic (teens and young adults aged 13–30, representing different races, genders, and income levels). participants will be asked to submit test reports through ReportShield and provide feedback on the tools accuracy and effectiveness. 
-The experiment:
+1.C.1.3 OKR 1 Ethical Impact(s)/Issue(s)
+    The act of improving digital literacy while rooted with good intentions of a digital safe space can harbor harmful yet unintended consequences if not handled carefully. Oversimplified modules might encourage overconfidence or misuse of reporting tools. If not monitored misinformation about the course’s curriculum might be spread within the course itself. This mirrors past issues such as “YouTube’s ‘Creator’s Academy,’ which unintentionally downplayed the algorithmic suppression risks, causing confusion and false expectations” [2]. 
+    
+    Another risk for our platform’s digital literacy course is the lack of accessibility for users who are non English speakers or have disabilities. They might find the contenta haré to navigate which would exclude them from their education. Also users that may have a different learning styles from that of our course which may also lead to their exclusion from being educated on digital literacy. 
 
-Did ReportShield help resolve your issue in a fast and timely manner? (Yes/No)
-Would you use and trust ReportShield to handle reports in the future? (Yes/No)
-On a scale from 1-10 how satisfied are you with the outcome of the reports you’ve made?
-On a scale from 1-10 how accurate is ReportShield when it comes to identifying harmful content being posted? 
-        
-
-The data accuracy audit will analyze a sample of 500+ resolved reports to test out the               tools performance. Metrics with include: 
-
-Percentage of harmful content that was correctly flagged
-Percentage of harmful content that was incorrectly flagged 
-Average time it took to resolve valid reports 
-
-To further verify the tools accuracy, I will also be running an A/B test to compare the different versions for the reporting algorithm. Both A and B will have 500 tested reports, version A will use the current machine learning model while version B will consist of training data to reduce biases. Both of the tests will be based on user satisfaction, accuracy, and resolution time. 
-
-**1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)**
-
-** 1.C.2.3 OKR 1 Ethical Impact(s)/Issue(s) 3.)
-My third objective for ReportShield is to make sure within the first year that 95% of our users feel safe and confident with the security of their data when making reports.
-Key results include achieving a 95% encryption success rate, putting together a security audit without detecting any critical vulnerabilities, and putting together a survey to assure that users are confident with the anonymity and data security that the tool provides. 
-The different types of ethical impacts that could arise includes privacy of data concerns, misuse of the tool. For example, if there ends up being a security breach then there's a possibility of user data being stolen and exposed, this is very similar to the Facebook cambridge analytics scandal where over 50 million facebook users data was taken and used in unethical ways causing harm to others and ultimately led to users not trusting facebook with their data. [1]. 
-Also, biased algorithms could ignore certain groups and even unfairly target different people. This is also very similar to the investigation on biased criminal sentencing algorithms which unfortunately ended up leading to discriminatory outcomes [2]. To confront these risks, I decided to create an ethical impact risk table. 
-
-Social media platoforms      | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights ||
-------------------------------------------------------------------------------------------------------
-Law enforcment      | mid       | mid         | high                     | high                 ||
-------------------------------------------------------------------------------------------------------
-Advocacy groups | low    | low        | mid                       | low              ||
-------------------------------------------------------------------------------------------------------
-Families       | low      | high       | mid                      | high                ||
-------------------------------------------------------------------------------------------------------
-Primary users   |     low      |      high       |     mid                     |          high           ||
-
-
-**1.C.2.4 OKR 2 Ethical Safeguards**
-In order to reduce the ethical concerns arising like privacy of data, bias, and security risks, ReportShield will implement multiple different safety guards and measurements. We will be developing transparent data usage policies that will have an easy-to-use user friendly dashboard that will include a clear consent prompt designed by user advocates, ethical designer experts, and UI/UX designers. These different types of policies will ensure that users are understanding how their data is being used, and will also be measured through user satisfaction surveys as well as opt-in rates. 
-In order to be able to mitigate bias audits we will use diverse datasets representing all demographics, getting feedback from user panels, data scientists, and diversity consultants. Success will be measured by different metrics like user feedback, surveys, and disparate impact ratios to compare the negative impacts of a policy/practice on different groups. Multi factor authentication as well as end-to-end encryption will strengthen data security designed by experts in the cybersecurity field and will then be tested by ethical hackers. Regular security audits will ensure compliance, and effectiveness is going to be tested by using confidence surveys, tracking breaches, and MFA adoption rates. 
-In conclusion, these safeguards, inspired by cases like the Facebook cambridge analytics scandal [1] will make certain that ReportShield ensures user trust and ethical integrity.
-
-
-**1.C.3.1 OKR 3 Objective and Key Result**
-
-Our Company ReportShield will look to achieve a strong reputation of trustworthiness and reliability with our consumers. A key result to support this objective is by being transparent about our company practices and how they correlate with consumers. One of our main goals is to achieve a 90% satisfaction rate from our surveys in our experiment stage. Our anonymous reporting platform will be designed to protect social media users’ identities when making reports, in an effort to not only protect their privacy but also to prevent retaliation. This will be done through a partnership with social media companies and with the use of encrypted servers. Our reporting platform will also include disclaimers that ensure user reports are anonymous and will list who will have access to their reports. On more serious reports, law enforcement would be involved if the user requests it. Key stakeholders will include social media platforms implementing our system, victims, law enforcement, and advocacy groups.
-
-**1.C.3.2 OKR 3 Metric(s) with Experiment(s)**
-
-To measure the success of our reporting system, we will be having regular social media users be randomly selected to complete a survey that will provide feedback on their comfort level of using our platform. This survey will involve about 1000 users that will come from various social media platforms like Instagram and Snapchat. The questions of survey would include:
-On a scale of 1-10, what is your comfort level of using this report tool?
-Would you use this report system again or recommend other users to use it? (Yes/No)
-Please rate your confidence level in your reports remaining anonymous and secure?(1-10)
-
-**1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)**
-
-Stakeholder       | Financial Risk | Privacy Risk | Conflicting Interest Risk | Violation of Rights ||
-------------------------------------------------------------------------------------------------------
-Victims/Families       | low       | high         | mid                       | mid                 ||
-------------------------------------------------------------------------------------------------------
-Social Media Companies | high      | mid          | mid                       | high                ||
-------------------------------------------------------------------------------------------------------
-Law Enforcement        | mild      | mild         | low                       | mid                 ||
-------------------------------------------------------------------------------------------------------
+Stakeholder
+Financial Risk 
+Risk of Privacy 
+Risk of Misinformation 
+Risk of Rights Violation
+Primary Users 
+Low
+Medium
+High
+Medium
+Social Media Firms
+Medium
+Low
+Medium
+Medium
+Law Enforcement 
+Low
+Low
+Low
+Low
+Advocacy Groups
+Low
+Low
+Low
+Low
+Families
+Low
+Medium
+Medium
+High
 
 
 
-Victims/Families Stakeholder: The financial risks for past victims of cybercrimes and their families who want to invest into this system is low in this case, because there is not a lot of correlation between financial loss and the security of user reports. The privacy risk would be more of a concern because they are trusting a secondary company involved in the social media platform being used will be private and taken seriously. Although there is an effort of transparency when using the reporting tool, it can be concerning about data security when multiple parties are involved. Finally, the conflict of interest would be considered mild due to the reporting tool would only be responding on how the data is shared based on what the user wants to be done with their report. 
+    Primary users, especially teens are at the highest of risks when it comes to being victimized by misinformation and harassment. They also face a medium risk of rights violations if they lack the awareness of consenting digitally, awareness of the consequences of sharing their data, and suffering from harmful reporting practices from cyber bullies. Social media firms could face risk with compliance with educational partnerships. Families face risks if children lack digital literacy or are misinformed regarding digital literacy. 
 
-Social Media Companies: The financial risk for social media companies is high because they will be not only investing into this reporting system but also will be implementing it into their platforms. There would need to be a high level of trust between them and our reporting tool as we would have to rely on their resources. In regard to privacy risk and the social media companies, the risk would be mild. This is because there would have to be an agreement between our tool and them on how we protect sensitive info from users who use the tool on their platform. This follows into conflicting interest as social media companies will also hold responsibility in handling user data and agreements would have to be in place to ensure that data is being handled appropriately. 
-This ethics impact can be referred to the United States vs Drew case where they ruled that they could not find Lori Drew guilty of CFAA violations because it was too vague to be applied to her violations of My Space’s terms of service. The case was ultimately dismissed  “as the judge seemingly thought it would be wrong to criminalize certain Terms of Service violations of MySpace and other social networking web sites since users often misrepresent themselves online”(Patchin).  This ethics issue can arise again in this situation here as it would leave the social media platforms to ultimately decide what would be considered as a violation of their terms of service.
+1.C.1.4 OKR 1 Ethical Safeguards
+    To reduce these aforementioned risks above, Reportshield must implement inclusive learning. 
 
-Law Enforcement: The financial risk for law enforcement would be mild because they will have financial investment with our company by using our tool as a resource to combat cybercrimes. The privacy risk would also be mild because they would also be using consumer data with their permission in order to retrieve evidence for potential legal action. Leading into conflicting interest risk, this would be low due to our tool and their party being on the same page of having similar goals. 
+Inclusive Design: Modules will be created with consultations from accessibility experts such as voice guided lessons for visually impaired, and sign language assistance for any parts of the course that may have a video. The course will also be translated in 10 languages. 
+Third-Party Review: Each module of the course will be reviewed on a quarterly basis by educators and digital ethics organizations to ensure accuracy and relevance.
+Adaptive Content Delivery: The platform shall adjust the delivery of the course content based on  user interactions and learning spaces to better accommodate diverse learners by allowing the changing of learning styles such as: visual, auditory, and hands on.
+Feedback Loop: Users will be able to flag any misleading or contradictory content in the course. This report will go to the course developers allowing for review and even revision of whatever section is reported especially if enough reports on the same section are made. 
 
-**1.C.3.4 OKR 3 Ethical Safeguards**
 
-An ethical safeguard to help reduce some of the ethical impacts when handling user reports would be the use of disclaimers and a confirmation before every report is submitted by the user. Before every user submission, the tool will alert the user on which parties will be handling their report and what possible actions may be taken. Attached this alert will also be a privacy notice that will also outline how the user’s data is being managed. This would help ensure transparency between the user and our reporting tool on who will be handling their report. It also gives users an opportunity to look over their report and possibly add any necessary info if needed. Our legal team along with the social media platforms we are involved will be involved in writing the privacy notice and designing this safeguard. In a Usercentrics blog they describe the importance of having a privacy notice: “Privacy notices are crucial for maintaining transparency between organizations and individuals. They clearly inform users about what personal data is being collected, why it is collected, how it will be used, and who it will be shared with”(Usercentrics). It is difficult to measure the effectiveness of a privacy notice but with the collaboration with other social media platforms, there will be many overseers to ensure the privacy notice is clear on how user data is being handled.
+1.C.2.1 OKR 2 Objective and Key Result
+Objective: 
+    This OKR seeks to eliminate algorithmic bias in moderation systems used by Reportshield. Within the first year, our goal is to reduce Reportshield’s moderation bias by 50%. This is to ensure that all groups, especially underrepresented groups regarding; gender, race, sexual orientation, ableism, and socioeconomic status all have a voice in reporting harmful content. 
+
+Key Result: 
+To create a diverse training dataset with at least 40% of the group consisting of underrepresented groups. 
+Conduct monthly fairness audits on AI flagging mechanisms and patterns
+Eventually achieve less than 10% of disparate impact rate in report outcomes. 
+Reportshield also wishes to collaborate with advocacy groups and marginalized communities to refine moderation bias detection logic 
+
+1.C.2.2 OKR 2 Metric(s) with Experiment(s)
+    We at ReportShield to test for bias will apply disparate impact testing across our demographics.
+
+Experiment 1: For our first experiment we will submit 500 copies of the same report using our reporting tool. Every element of the report will be word for word the exact same (content as well as all markers of identity such as gender, race, sexual orientation, etc.).  
+
+Experiment 2: We will have a panel of 200 testers of diverse identities report similar harmful content through our reporting tool. We will check for any differences in our tool’s affirmative action and it’s rate of fairness results. 
+
+Key Metrics:
+False positive rate according to demographic.
+Time to resolve the report and take affirmative action disparity among the demographics
+The disparity of rates of satisfaction among demographic groups. 
+
+
+1.C.2.3 OKR 2 Ethical Impact(s)/Issue(s)
+    Reducing bias in automated moderation is a very critical issue. It’s one however that must be expunged. Studies show that marginalized groups are disproportionately flagged or ignored by AI systems [5]. Failing to act upon this issue could result in further marginalization for these groups. This marginalization would be in a digital space which would burden these demographics with another frontier that they’d have to cross to combat their own discrimination. The “TikTok Shadowbanning” controversy, where LGBTQ+ and disabled creators were quietly suppressed demonstrates how biased moderation damages trust [6]. Also with being marginalized on digital spaces where many people spend a good portion of their daily lives this can trickle down to their lives offline as discriminatory sentiments could not only be harbored online but spread rapidly. 
+
+
+Stakeholder 
+Financial Risk 
+Risk of Privacy
+Risk of Bias
+Risk of Rights Violation
+Privacy Users
+Low 
+High
+High 
+High 
+Social Media Companies
+Mid
+Mid
+Mid 
+Mid 
+Law Enforcement 
+Low
+Low
+Mid 
+Mid 
+Advocacy Groups 
+Low
+Low 
+Low 
+Low 
+Marginalized Groups
+Low
+High
+High 
+High
+
+
+    Primary users and marginalized groups face the highest risk in terms of privacy, bias and podré tisk rights violations. The algorithms may bias our users causing marginalization and if they are already in a marginalized group it will be made even worse for them. Social media companies face financial risk due to conflicting interest of safety for users thus causing moderation when what they really want is engagement. Law enforcement carries mid level bias risk due to if they enforce the law on a marginalized group based on biased data. Advocacy goups face minimal risk but also are meant to hold the system accountable if anything were to go wrong. So if data is still biased even after them reviewing it then they too could face accountability. The table illustrates the need to protect our users and especially those of marginalized groups as they face the greatest risks of all the stakeholders. 
+
+1.C.2.4 OKR 2 Ethical Safeguards
+    We at Reportshield are aware of these risks and aim to mitigate them where we can. We will implement bias mitigation by using algorithm explainability tools such as SHAP (SHapely Addictive exPlanations) to audit any unfair decision making process from our reporting tools and immediately take measures against it. SHAP allows the system to assign transparent numerical values to each factor that influences a moderation decision. This will make finding traces of unfair treatment towards users of certain demographics or multiple demographics easier. This can be done with procrastinating report audits from users because of their demographic. We will have inclusive design by having our moderation policy created with the help of marginalized groups. They will have direct influence on how harmful content is mitigated and their first hand experience at the hands of discrimination will provide an invaluable asset to our refining of our tool. To maintain trust among our users Reportshield will publish a yearly bias report with the aims of the amount of bias every year. It will be revised by advocacy and civil rights groups to ensure accountability at Reportshield. The platform will also allow for users to provide direct feedback explaining why their report was accepted or rejected. This allows for transparency with our users. These practices will ensure that Reportshield can be trusted to ensure that there is no bias or discrimination against any demographic that everyone should be safe when online and anonymously reporting any harm. 
+
 
 **Item 2 Cultural Policy:**
 
