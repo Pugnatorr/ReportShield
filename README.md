@@ -124,16 +124,17 @@ Independent Evaluations: Cybersecurity firms to review Report Shield’s practic
 **1.C.2.1 OKR 2 Objective and Key Result**
 
 **Objective**
-    My objective is to ensure Reportshield launches a digital literacy campaign that reaches Reportshield users. It is to increase awareness around cyber bullying, fake accounts, and the proper use of anonymous reporting tools. Many users, especially those that are minors, may not know what qualifies as cyber bullying or a fake account or accounts spreading misinformation. They may also not know how to safely and effectively report on harm. Reportshield aims to empower our younger users so that they may not fall victim to such malice. By launching a digital literacy campaign Reportshield will not only improve the quality of the reports but foster a more informed and ethical online community. This will aid to reduce underreporting and increase the proactivity of our newly educated users. 
+My objective is to ensure Reportshield launches a digital literacy campaign that reaches Reportshield users. It is to increase awareness around cyber bullying, fake accounts, and the proper use of anonymous reporting tools. Many users, especially those that are minors, may not know what qualifies as cyber bullying or a fake account or accounts spreading misinformation. They may also not know how to safely and effectively report on harm. Reportshield aims to empower our younger users so that they may not fall victim to such malice. By launching a digital literacy campaign Reportshield will not only improve the quality of the reports but foster a more informed and ethical online community. This will aid to reduce underreporting and increase the proactivity of our newly educated users. 
 
 **Key Results**
-    Launch an in-app interactive educational model and educate 50,000 Reportshield users within the first 12 months of the launch. 
 
-    Reportshield wishes to achieve at last a 60% improvement on digital literacy scores through the uses of pre and post quizzes.
+Launch an in-app interactive educational model and educate 50,000 Reportshield users within the first 12 months of the launch. 
 
-    To partner with 10+ schools, universities, and advocacy organizations to embed Reportshield’s training modules in their digital safety curriculum. 
+Reportshield wishes to achieve at last a 60% improvement on digital literacy scores through the uses of pre and post quizzes.
 
-    To reach an average rating of 4.5/5 for the learning content of the digital literacy course based on its users feedback.
+To partner with 10+ schools, universities, and advocacy organizations to embed Reportshield’s training modules in their digital safety curriculum. 
+
+To reach an average rating of 4.5/5 for the learning content of the digital literacy course based on its users feedback.
 
 **Stakeholders:**
 
